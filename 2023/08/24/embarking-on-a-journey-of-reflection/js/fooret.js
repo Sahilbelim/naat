@@ -548,8 +548,8 @@ footer.innerHTML = ` <div class="ekit-template-content-markup ekit-template-cont
                                                 data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
                                                     <p style="text-align: center;">
-                                                        Powered by
-                                                        <a href="https://sociolib.com/">SocioLib</a>.
+                                                       Developed by 
+                                                        <a href="https://sociolib.com/">Sahil Belim </a>.
                                                     </p>
                                                 </div>
                                             </div>
