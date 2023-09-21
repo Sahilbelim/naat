@@ -612,4 +612,167 @@ footer.innerHTML = ` <div class="ekit-template-content-markup ekit-template-cont
                 </div>
             </section>
         </div>
-    </div>`;
+    </div>
+    <link rel="stylesheet" id="elementor-post-434-css"
+        href="../../../../wp-content/uploads/sites/26/elementor/css/post-434a394.css?ver=1693014742" media="all" />
+    <link rel="stylesheet" id="e-animations-css"
+        href="../../../../wp-content/plugins/elementor/assets/lib/animations/animations.mindf38.css?ver=3.14.0"
+        media="all" />
+    <script data-cfasync="false"
+        src="../../../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="../../../../wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0"
+        id="hello-theme-frontend-js"></script>
+    <script
+        src="../../../../wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script292d.js?ver=2.8.8"
+        id="elementskit-framework-js-frontend-js"></script>
+       
+    <script id="elementskit-framework-js-frontend-js-after">
+        var elementskit = {
+            resturl: "https://web.sociolib.com/salam/wp-json/elementskit/v1/",
+        };
+    </script>
+    <script src="../../../../wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts292d.js?ver=2.8.8"
+        id="ekit-widget-scripts-js"></script>
+    <script src="../../../../wp-content/plugins/elementor/assets/js/webpack.runtime.mindf38.js?ver=3.14.0"
+        id="elementor-webpack-runtime-js"></script>
+    <script src="../../../../wp-content/plugins/elementor/assets/js/frontend-modules.mindf38.js?ver=3.14.0"
+        id="elementor-frontend-modules-js"></script>
+    <script src="../../../../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
+        id="elementor-waypoints-js"></script>
+    <script src="../../../../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+    <script id="elementor-frontend-js-before">
+        var elementorFrontendConfig = {
+            environmentMode: {
+                edit: false,
+                wpPreview: false,
+                isScriptDebug: false,
+            },
+            i18n: {
+                shareOnFacebook: "Share on Facebook",
+                shareOnTwitter: "Share on Twitter",
+                pinIt: "Pin it",
+                download: "Download",
+                downloadImage: "Download image",
+                fullscreen: "Fullscreen",
+                zoom: "Zoom",
+                share: "Share",
+                playVideo: "Play Video",
+                previous: "Previous",
+                next: "Next",
+                close: "Close",
+                a11yCarouselWrapperAriaLabel:
+                    "Carousel | Horizontal scrolling: Arrow Left & Right",
+                a11yCarouselPrevSlideMessage: "Previous slide",
+                a11yCarouselNextSlideMessage: "Next slide",
+                a11yCarouselFirstSlideMessage: "This is the first slide",
+                a11yCarouselLastSlideMessage: "This is the last slide",
+                a11yCarouselPaginationBulletMessage: "Go to slide",
+            },
+            is_rtl: false,
+            breakpoints: { xs: 0, sm: 480, md: 768, lg: 1025, xl: 1440, xxl: 1600 },
+            responsive: {
+                breakpoints: {
+                    mobile: {
+                        label: "Mobile Portrait",
+                        value: 767,
+                        default_value: 767,
+                        direction: "max",
+                        is_enabled: true,
+                    },
+                    mobile_extra: {
+                        label: "Mobile Landscape",
+                        value: 880,
+                        default_value: 880,
+                        direction: "max",
+                        is_enabled: false,
+                    },
+                    tablet: {
+                        label: "Tablet Portrait",
+                        value: 1024,
+                        default_value: 1024,
+                        direction: "max",
+                        is_enabled: true,
+                    },
+                    tablet_extra: {
+                        label: "Tablet Landscape",
+                        value: 1200,
+                        default_value: 1200,
+                        direction: "max",
+                        is_enabled: false,
+                    },
+                    laptop: {
+                        label: "Laptop",
+                        value: 1366,
+                        default_value: 1366,
+                        direction: "max",
+                        is_enabled: false,
+                    },
+                    widescreen: {
+                        label: "Widescreen",
+                        value: 1600,
+                        default_value: 2400,
+                        direction: "min",
+                        is_enabled: true,
+                    },
+                },
+            },
+            version: "3.14.0",
+            is_static: false,
+            experimentalFeatures: {
+                e_dom_optimization: true,
+                e_optimized_assets_loading: true,
+                e_optimized_css_loading: true,
+                a11y_improvements: true,
+                additional_custom_breakpoints: true,
+                e_swiper_latest: true,
+                "hello-theme-header-footer": true,
+                "landing-pages": true,
+            },
+            urls: {
+                assets:
+                    "https:\/\/web.sociolib.com\/salam\/wp-content\/plugins\/elementor\/assets\/",
+            },
+            swiperClass: "swiper",
+            settings: { page: [], editorPreferences: [] },
+            kit: {
+                active_breakpoints: [
+                    "viewport_mobile",
+                    "viewport_tablet",
+                    "viewport_widescreen",
+                ],
+                viewport_widescreen: 1600,
+                body_background_background: "classic",
+                global_image_lightbox: "yes",
+                lightbox_enable_counter: "yes",
+                lightbox_enable_fullscreen: "yes",
+                lightbox_enable_zoom: "yes",
+                lightbox_enable_share: "yes",
+                lightbox_title_src: "title",
+                lightbox_description_src: "description",
+                hello_header_logo_type: "title",
+                hello_header_menu_layout: "horizontal",
+                hello_footer_logo_type: "logo",
+            },
+            post: {
+                id: 339,
+                title:
+                    "Embarking%20on%20a%20Journey%20of%20Reflection%20%E2%80%93%20Salam",
+                excerpt: "",
+                featuredImage:
+                    "https:\/\/web.sociolib.com\/salam\/wp-content\/uploads\/sites\/26\/2023\/08\/29.jpg",
+            },
+        };
+    </script>
+    <script src="../../../../wp-content/plugins/elementor/assets/js/frontend.mindf38.js?ver=3.14.0"
+        id="elementor-frontend-js"></script>
+    <script src="../../../../wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle292d.js?ver=2.8.8"
+        id="animate-circle-js"></script>
+    <script id="elementskit-elementor-js-extra">
+        var ekit_config = {
+            ajaxurl: "https:\/\/web.sociolib.com\/salam\/wp-admin\/admin-ajax.php",
+            nonce: "0236535e99",
+        };
+    </script>
+    <script src="../../../../wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor292d.js?ver=2.8.8"
+        id="elementskit-elementor-js"></script>
+`;
