@@ -47,7 +47,7 @@ nav.innerHTML = `<div
                       <img
                         width="80"
                         height="114"
-                        src="../../wp-content/uploads/sites/26/2023/08/logo.png"
+                        src="../../../../wp-content/uploads/sites/26/2023/08/logo.png"
                         class="attachment-full size-full wp-image-362"
                         alt=""
                         loading="lazy"
@@ -101,7 +101,7 @@ nav.innerHTML = `<div
                             data-vertical-menu="750px"
                           >
                             <a
-                              href="../news/index.html"
+                              href="../../../../template-kit/news/index.html"
                               class="ekit-menu-nav-link"
                               >Home</a
                             >
@@ -127,7 +127,7 @@ nav.innerHTML = `<div
                                 data-vertical-menu="750px"
                               >
                                 <a
-                                  href="../about/index.html"
+                                  href="../../../../../template-kit/about/index.html"
                                   class="dropdown-item"
                                   >About</a
                                 >
@@ -180,7 +180,7 @@ nav.innerHTML = `<div
                             <li id="menu-item-173"
                               class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173 nav-item elementskit-mobile-builder-content"
                               data-vertical-menu="750px">
-                              <a href="../about/index.html" class="dropdown-item">About</a>
+                              <a href="../../../../template-kit/about/index.html" class="dropdown-item">About</a>
                             </li>
                           </li>
                           <li
@@ -189,7 +189,7 @@ nav.innerHTML = `<div
                             data-vertical-menu="750px"
                           >
                             <a
-                              href="../services/index.html"
+                              href="../../../../template-kit/services/index.html"
                               class="ekit-menu-nav-link"
                               >Services</a
                             >
@@ -200,7 +200,7 @@ nav.innerHTML = `<div
                             data-vertical-menu="750px"
                           >
                             <a
-                              href="../programs/index.html"
+                              href="../../../../template-kit/programs/index.html"
                               class="ekit-menu-nav-link"
                               >Programs</a
                             >
@@ -211,7 +211,7 @@ nav.innerHTML = `<div
                             data-vertical-menu="750px"
                           >
                             <a
-                              href="../events/index.html"
+                              href="../../../../template-kit/events/index.html"
                               class="ekit-menu-nav-link"
                               >Events</a
                             >
